@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SConsul&theme=dark&show_icons=true&include_all_commits=true)
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SConsul&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
 <br />
 <br />
 
-<img alt="SConsul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SConsul&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img align="center" alt="SConsul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SConsul&include_all_commits=true&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
