@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Interested in: Machine Learning and Computer Vision
 - 📫 How to reach me: sarthakconsul@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a clone. Check him out [**@sakham36**](https://github.com/saksham36)
+- ⚡ Fun fact: I have a clone. Check him out <a href="https://github.com/saksham36" target="_blank">@saksham36</a>
 
 ### Connect with me:
 [<img align="left" alt="Sarthak's website" width="22px" src="https://sconsul.github.io/assets/img/favicon.png" />](https://sconsul.github.io/)
