@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SConsul&theme=dark&show_icons=true)
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SConsul&theme=dark&show_icons=true&include_all_commits=true)
 
 <br />
 <br />
