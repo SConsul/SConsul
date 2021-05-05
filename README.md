@@ -1,6 +1,4 @@
-### Hello World, I'm Sarthak 👋
-[About Me](https://sconsul.github.io/)
-Here are some ideas to get you started:
+### Hello World, I'm [**Sarthak**](https://sconsul.github.io/) 👋
 
 - 🔭 I’m currently working on myself :)
 - 🌱 I’m currently learning about Deep RL and meta-learning
