@@ -1,13 +1,13 @@
 ### Hello World, I'm [**Sarthak**](https://sconsul.github.io/) 👋
 
-- 🔭 I’m currently working on myself :)<!--
-- 🌱 I’m currently learning about Deep RL and meta-learning
-- 💬 Interested in: Machine Learning and Computer Vision
--->
+- 🔭 I’m currently working on myself :)
 - 📫 How to reach me: sarthakconsul@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a clone. Check him out <a href="https://github.com/saksham36" target="_blank">@saksham36</a>
-
+<!--
+- 🌱 I’m currently learning about Deep RL and meta-learning
+- 💬 Interested in: Machine Learning and Computer Vision
+-->
 ### Connect with me:
 [<img align="left" alt="Sarthak's website" width="22px" src="https://sconsul.github.io/assets/img/favicon.png" />](https://sconsul.github.io/)
 [<img align="left" alt="Twitter | Sarthak" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ConsulSarthak)
