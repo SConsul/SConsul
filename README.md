@@ -1,7 +1,6 @@
 ### Hello World, I'm [**Sarthak**](https://sconsul.github.io/) 👋
 
-- 🔭 I’m currently working on myself :)
-<!--
+- 🔭 I’m currently working on myself :)<!--
 - 🌱 I’m currently learning about Deep RL and meta-learning
 - 💬 Interested in: Machine Learning and Computer Vision
 -->
