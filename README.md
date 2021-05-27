@@ -1,8 +1,10 @@
 ### Hello World, I'm [**Sarthak**](https://sconsul.github.io/) 👋
 
 - 🔭 I’m currently working on myself :)
+<!--
 - 🌱 I’m currently learning about Deep RL and meta-learning
 - 💬 Interested in: Machine Learning and Computer Vision
+-->
 - 📫 How to reach me: sarthakconsul@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a clone. Check him out <a href="https://github.com/saksham36" target="_blank">@saksham36</a>
