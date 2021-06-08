@@ -1,7 +1,6 @@
 ### Hello World, I'm [**Sarthak**](https://sconsul.github.io/) 👋
 
 - 🔭 I’m currently working on myself :)
-- 📫 How to reach me: sarthakconsul@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a clone. Check him out <a href="https://github.com/saksham36" target="_blank">@saksham36</a>
 <!--
