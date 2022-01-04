@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on myself :)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a clone. Check him out <a href="https://github.com/saksham36" target="_blank">@saksham36</a>
 <!--
 - 🌱 I’m currently learning about Deep RL and meta-learning
 - 💬 Interested in: Machine Learning and Computer Vision
