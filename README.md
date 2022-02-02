@@ -1,6 +1,6 @@
 ### Hello World, I'm [**Sarthak**](https://sconsul.github.io/) 👋
 
-- 🔭 I’m currently working on myself :)
+- 🔭 I’m currently working on making ML models more robust
 - 😄 Pronouns: He/Him
 <!--
 - 🌱 I’m currently learning about Deep RL and meta-learning
