@@ -7,11 +7,11 @@
 - 💬 Interested in: Machine Learning and Computer Vision
 -->
 <h3>Languages and Tools:</h3>
-<a><img alt="Rust" src="https://img.shields.io/badge/Rust-008080.svg?logo=rust&logoColor=white" /></a>
+<p><a><img alt="Rust" src="https://img.shields.io/badge/Rust-008080.svg?logo=rust&logoColor=white" /></a>
 <a><img alt="Python" src="https://img.shields.io/badge/Python-3776ab.svg?logo=python&logoColor=white"/></a>
 <a><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c.svg?logo=pytorch&logoColor=white" /></a>
 <a><img alt="CUDA" src="https://img.shields.io/badge/CUDA-0010080.svg"/></a>
-<a><img alt="C++" src="https://img.shields.io/badge/C%2b%2b-00599c.svg?logo=c%2b%2b&logoColor=white"/></a> 
+<p><a><img alt="C++" src="https://img.shields.io/badge/C%2b%2b-00599c.svg?logo=c%2b%2b&logoColor=white"/></a> 
 <a><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-ff6f00.svg?logo=tensorflow&logoColor=white" /></a> 
 <a><img alt="Keras" src="https://img.shields.io/badge/Keras-d00000.svg?logo=keras&logoColor=white" /></a> 
 <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&logoColor=black" /></a>
